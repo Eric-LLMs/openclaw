@@ -72,7 +72,7 @@ EOF
 }
 ```
 
-### Step 4 — Place files & restart
+### Step 4 — For the most up-to-date plugins, please visit the [GitHub repository](https://github.com/Eric-LLMs/openclaw-skills.git) to download, place files, and restart.
 
 ```bash
 # copy into your OpenClaw plugin directory:
