@@ -103,7 +103,6 @@ google-calendar/              # 📅 Google Calendar Plugin
 ├── Skills/                   
 │   └── google-calendar/      
 │       └── SKILL.md          # LLM behavior guidance & Prompt Overrides
-├── Standalone-Prompt.md      # Standalone instruction-based tasks
 └── README.md                 # Detailed setup & OAuth instructions
 ```
 
